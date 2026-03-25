@@ -1,0 +1,10 @@
+{
+  "testing": {
+    "diff_threshold": {
+      "comet": 1e-3,
+      "devmut": 1e-3,
+      "muffin": 1e-3,
+      "modelmeta": 1e-3
+    }
+  }
+}
